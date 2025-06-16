@@ -1,4 +1,5 @@
-// let userNames: string[]; 
+// let userNames: string[];
+// Array data type 
 let userNames:Array<string>;
 userNames = ["A","B","C","D"]
 console.log(userNames);
